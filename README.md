@@ -1,6 +1,6 @@
 # Hi there, I'm Shade! 👋
 
-🌟 💻 on a Frontend Developer journey  | 🎨 UI/UX Designer (10+ years)  
+💻 on a Frontend Developer journey  |  🎨 UI/UX Designer (10+ years)  
 
 I'm a **brand new coder** diving headfirst into the world of **HTML, CSS, and JavaScript!** 🎉  
 Currently breaking my code more than fixing it, but hey, that's part of the journey, right? 😆  
