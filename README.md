@@ -1,25 +1,54 @@
 # Hi there, I'm Shade! 👋
 
-🌟 Frontend Developer | 💻 JavaScript | 🎨 UI/UX Designer  
+🌟 💻 on a Frontend Developer journey  | 🎨 UI/UX Designer (10+ years)  
 
-Welcome to my GitHub profile! I'm passionate about building **beautiful, responsive websites** and exploring the latest web technologies. 🚀
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **React projects**  
-- 🌱 Learning **Next.js & TypeScript**  
-- 🎯 Goal: Master full-stack development  
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**  
-- ⚡ Fun fact: I love designing cool UI animations 🎨  
+I'm a **brand new coder** diving headfirst into the world of **HTML, CSS, and JavaScript!** 🎉  
+Currently breaking my code more than fixing it, but hey, that's part of the journey, right? 😆  
 
 ---
 
-## 🛠️ Tech Stack  
-🔹 **Languages:** JavaScript (ES6+), TypeScript  
-🔹 **Frontend:** React.js, Next.js, Vue.js  
-🔹 **Styling:** Tailwind CSS, Sass, Bootstrap  
-🔹 **Tools:** Git, GitHub, VS Code, Figma  
+### 💻 What I’ve Learned So Far:
+✔ `<h1>` makes **big text** (Wow!)  
+✔ CSS can change colors (Fancy 🎨)  
+✔ JavaScript is... *a little scary, but exciting!* 👀  
+
+---
+
+### 🎯 My Goals:
+🚀 Build a simple website without it looking like it came from 1998  
+🎨 Make CSS behave (Why is it so stubborn?!)  
+🕹️ Create a **cool JavaScript button** that actually does something  
+
+---
+
+### 📌 Current Struggles:
+- Positioning elements in CSS (Why is `margin: auto;` not working?? 😭)  
+- Remembering to close my `<div>` tags 🤦  
+- Debugging JavaScript (a.k.a **"console.log is my best friend"** 😂)  
+
+---
+
+### 🎉 Fun Facts:
+- I type `console.log("Hello, world!");` at least **10 times a day**  
+- I once spent **3 hours** fixing a bug... turns out I just forgot a **semicolon** 😅  
+- My CSS file is basically:  
+  ```css
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f0;
+    /* I have no idea what I'm doing */
+  }
+
+---
+
+🔥 Join me on my coding adventure!
+If you love debugging, breaking things, and learning cool stuff, let's connect! 😎
+
+---
+
+📢 Warning: Side effects of following me include sudden bursts of JavaScript rage and uncontrollable excitement over fixing small bugs. Proceed with caution. 😆🔥
 
 ---
 
