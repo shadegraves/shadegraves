@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm passionate about building **beautiful, respons
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/tatiana-pirondi-798774a6/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tatiana-pirondi-798774a6/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://johndoe.dev)  
 
