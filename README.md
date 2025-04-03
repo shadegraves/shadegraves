@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm passionate about building **beautiful, respons
 ---
 
 ## 📈 GitHub Stats  
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=tokyonight)
+![Shade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadegraves&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadegraves&layout=compact&theme=tokyonight)
 
 ---
 
