@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm John Doe! 👋
 
-<!--
-**shadegraves/shadegraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Frontend Developer | 💻 JavaScript | 🎨 UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building **beautiful, responsive websites** and exploring the latest web technologies. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **React projects**  
+- 🌱 Learning **Next.js & TypeScript**  
+- 🎯 Goal: Master full-stack development  
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**  
+- ⚡ Fun fact: I love designing cool UI animations 🎨  
+
+---
+
+## 🛠️ Tech Stack  
+🔹 **Languages:** JavaScript (ES6+), TypeScript  
+🔹 **Frontend:** React.js, Next.js, Vue.js  
+🔹 **Styling:** Tailwind CSS, Sass, Bootstrap  
+🔹 **Tools:** Git, GitHub, VS Code, Figma  
+
+---
+
+## 📈 GitHub Stats  
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/johndoe)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/johndoe)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://johndoe.dev)  
+
+---
+
+🔥 **Fun fact:** This profile README updates dynamically using GitHub Stats API! 😎
