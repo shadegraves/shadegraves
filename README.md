@@ -1,6 +1,6 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Shade! 👋
 
-🌟 Frontend Developer | 💻 JavaScript | 🎨 UI/UX Enthusiast  
+🌟 Frontend Developer | 💻 JavaScript | 🎨 UI/UX Designer  
 
 Welcome to my GitHub profile! I'm passionate about building **beautiful, responsive websites** and exploring the latest web technologies. 🚀
 
@@ -34,6 +34,3 @@ Welcome to my GitHub profile! I'm passionate about building **beautiful, respons
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/johndoe)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://johndoe.dev)  
 
----
-
-🔥 **Fun fact:** This profile README updates dynamically using GitHub Stats API! 😎
