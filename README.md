@@ -1,4 +1,4 @@
-# Hi there, I'm Shade! 👋
+# Hi there, I'm Tati! 👋
 
 💻 on a Frontend Developer journey // 🎨 UI/UX Designer (10+ years)  
 
